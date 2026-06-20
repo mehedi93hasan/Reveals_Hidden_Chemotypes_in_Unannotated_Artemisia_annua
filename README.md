@@ -16,9 +16,9 @@ Applied to the antimalarial plant *Artemisia annua*, this pipeline successfully 
 
 ## 🧠 Model Architecture
 
-*(Upload your Figure 1 image to the repository and link it here)*
 
-![Universal Multi-Tissue Deep Autoencoder Architecture](figures/Figure1_Architecture.png)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_43efhs43efhs43ef" src="https://github.com/user-attachments/assets/b9ec67e9-2341-49ea-acdc-b45bf4ed21fc" />
+
 > **Fig 1.** Schematic representation of the Universal Multi-Tissue Deep Autoencoder. The framework ingests a harmonized 39,975-dimensional transcriptomic vector, compressing it through sequentially regularized dense layers (512 → 256) into a 128-dimensional latent bottleneck. Batch Normalization and Dropout regularizers ensure robust, non-linear feature extraction independent of human metadata.
 
 ---
